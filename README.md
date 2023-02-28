@@ -6,7 +6,6 @@
   - `virtualenv mypython`
   - `source mypython/bin/activate`
   
-  
 ##### Install requirements  
 
 - `pip3 install -r requirements.txt` 
@@ -15,12 +14,14 @@
 
 `behave features/ ` 
 
+Gherkin Scenarios can be found in features folder
+
 ##### Dependencies:
 
 - `Python3.9`
 - `Toolium`  https://github.com/Telefonica/toolium/
-- `Chromedriver V110.0.5481.77` 
-
+- `Chromedriver V110.0.5481.77`
+- `Behave`
 
 ##### TODO:
 1. Dockerize
