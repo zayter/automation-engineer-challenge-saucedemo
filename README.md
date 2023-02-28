@@ -15,6 +15,12 @@
 
 `behave features/ ` 
 
+##### Dependencies:
+
+- `Python3.9`
+- `Toolium`  https://github.com/Telefonica/toolium/
+- `Chromedriver V110.0.5481.77` 
+
 
 ##### TODO:
 1. Dockerize
